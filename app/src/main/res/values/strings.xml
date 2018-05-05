@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit_GoogleMap</string>
+    <string name="error_text">Error!</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+</resources>
